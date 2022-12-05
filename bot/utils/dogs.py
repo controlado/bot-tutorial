@@ -7,6 +7,10 @@ Discord: Balaclava#1912
 
 import requests  # módulo responsável por fazer requisições.
 
+# atenção: o módulo requests não é recomendado pra bots de discord
+# porque não faz requisições assíncronas, mas podem ser utilizados.
+# a biblioteca ideal seria a aiohttp.
+
 
 def get_dog_image(breed: str = None) -> str:
     """Retorna o link de alguma imagem de cachorro.
