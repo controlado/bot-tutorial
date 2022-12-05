@@ -10,7 +10,7 @@
 
 #
 
-### `⚙️` Comandos
+### `⚙️` [Comandos](https://docs.pycord.dev/en/stable/api/application_commands.html#commands)
 
 <details>
     <summary> parâmetro opcional (explicação) </summary>
@@ -34,7 +34,7 @@
 
 #
 
-### `👀` Eventos
+### `👀` [Eventos](https://docs.pycord.dev/en/stable/api/events.html#event-reference)
 
 <details>
     <summary> on_ready (explicação) </summary>
