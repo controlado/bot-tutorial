@@ -2,12 +2,15 @@
 
 ### `☕` [About me](https://github.com/controlado)
 - ![info](https://img.shields.io/static/v1?logo=discord&label=&message=Balaclava%231912&color=4078c0&logoColor=white&style=flat)
+- ![ide](https://img.shields.io/static/v1?logo=Visual%20Studio%20Code&label=&message=Visual%20Studio%20Code&color=4078c0&logoColor=white&style=flat)
+
+### `🗃️` [About this project](https://github.com/controlado/bot-tutorial)
 - ![wakatime](https://wakatime.com/badge/user/89c5e1c8-9e67-43ef-bd0e-3ff9a4fde5e2/project/612c1050-ee90-437b-ba74-3edac26682a6.svg?style=flat)
 - ![language](https://img.shields.io/static/v1?logo=Python&label=&message=Python%203.11&color=4078c0&logoColor=white&style=flat)
 ![language](https://img.shields.io/static/v1?label=&message=Pycord&color=4078c0&logoColor=white&style=flat)
 ![language](https://img.shields.io/static/v1?label=&message=Requests&color=4078c0&logoColor=white&style=flat)
-- ![ide](https://img.shields.io/static/v1?logo=Visual%20Studio%20Code&label=&message=Visual%20Studio%20Code&color=4078c0&logoColor=white&style=flat)
-![ide](https://img.shields.io/static/v1?logo=Github&label=&message=MIT&color=4078c0&logoColor=white&style=flat)
+- ![license](https://img.shields.io/static/v1?logo=Github&label=&message=License&color=4078c0&logoColor=white&style=flat)
+![license](https://img.shields.io/static/v1?label=&message=MIT&color=4078c0&logoColor=white&style=flat)
 
 #
 
