@@ -8,7 +8,7 @@ Discord: Balaclava#1912
 import requests  # módulo responsável por fazer requisições.
 
 # atenção: o módulo requests não é recomendado pra bots de discord
-# porque não faz requisições assíncronas, mas podem ser utilizados.
+# porque não faz requisições assíncronas, mas pode ser utilizado.
 # a biblioteca ideal seria a aiohttp.
 
 
