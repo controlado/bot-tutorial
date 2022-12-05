@@ -10,5 +10,4 @@
 
 #
 
-### `⚠️` License:
-- [MIT License](https://choosealicense.com/licenses/mit/)
+### `⚠️` [License](https://choosealicense.com/licenses/mit/)
