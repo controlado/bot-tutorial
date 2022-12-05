@@ -1,6 +1,7 @@
 """Responsável por funções que retornam alguma coisa.
 
 GitHub: https://github.com/controlado
+Repo: https://github.com/controlado/bot-tutorial
 Discord: Balaclava#1912
 """
 
