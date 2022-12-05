@@ -1,4 +1,4 @@
-# `#️⃣` `Discord Bot Tutorial`
+# `#️⃣` `Discord Bot`
 
 ### `☕` [About me](https://github.com/controlado)
 - ![info](https://img.shields.io/static/v1?logo=discord&label=&message=Balaclava%231912&color=blue&logoColor=white&style=flat)
