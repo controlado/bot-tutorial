@@ -1,5 +1,7 @@
 """Arquivo que faz o bot ligar.
 
+Paradigma: programação funcional.
+
 GitHub: https://github.com/controlado
 Repo: https://github.com/controlado/bot-tutorial
 Discord: Balaclava#1912
