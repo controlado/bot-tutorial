@@ -21,8 +21,8 @@ bot = discord.Bot(intents=permissions)  # criando o bot e dando as permissões.
 # pode identificar e responder aos mesmos.
 
 # @bot.command
-# comandos (auto-explicativos) podem ser utilizados
-# pelos usuários e o bot pode responder à esse uso.
+# comandos (auto-explicativo) podem ser utilizados
+# pelos usuários e o bot pode responder isso.
 
 
 @bot.event  # registrando a função abaixo como uma resposta ao evento.
