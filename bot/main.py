@@ -7,7 +7,7 @@ Discord: Balaclava#1912
 
 import discord  # py-cord
 
-from dogs import get_dog_image
+from utils import dogs
 
 permissions = discord.Intents.all()  # criando as permissões do bot.
 bot = discord.Bot(intents=permissions)  # criando o bot e dando as permissões.
@@ -40,7 +40,7 @@ async def on_message(message: discord.Message):
         return  # quebra e para o código.
 
     if "dog" in message.content.lower():  # se "dog" estiver dentro do conteúdo da mensagem.
-        dog_image = get_dog_image()  # puxa uma imagem de cachorro.
+        dog_image = dogs.get_dog_image()  # puxa uma imagem de cachorro.
         await message.reply(dog_image)  # responde o usuário com a foto.
 
 
@@ -62,7 +62,7 @@ async def dog(ctx: discord.commands.ApplicationContext, breed: str = None):
         breed (str, optional): Raça do cachorro.
     """
     await ctx.defer()  # faz o bot esperar (bot está pensando...)
-    dog_image = get_dog_image(breed)  # puxa uma imagem de cachorro.
+    dog_image = dogs.get_dog_image(breed)  # puxa uma imagem de cachorro.
     await ctx.respond(dog_image)  # responde o usuário com a foto.
 
 # usa a função run() que está dentro do bot pra fazê-lo ligar efetivamente.
