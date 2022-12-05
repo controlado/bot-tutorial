@@ -1,6 +1,6 @@
 # `🐍` `Discord Bot Tutorial`
 
-### About me:
+### `☕` [About me](https://github.com/controlado)
 - ![info](https://img.shields.io/static/v1?logo=discord&label=&message=Balaclava%231912&color=00d26a&logoColor=white&style=flat)
 - ![language](https://img.shields.io/static/v1?logo=Python&label=&message=Python%203.11&color=00d26a&logoColor=white&style=flat)
 ![language](https://img.shields.io/static/v1?label=&message=Pycord&color=00d26a&logoColor=white&style=flat)
